@@ -1,6 +1,7 @@
 # VueWeather
 
 This project has been made in Vue 3 following parts of John Komarnicki tutorial.
+
 Link to the application: https://effervescent-stardust-18c5d2.netlify.app
 
 ## Recommended IDE Setup
